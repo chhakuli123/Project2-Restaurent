@@ -1,4 +1,4 @@
-# Project  | Restaurent![Project 2](https://img.shields.io/badge/Project%20-1-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
+# Project  | Restaurent  ![Project 2](https://img.shields.io/badge/Project%20-1-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
 
 ### By Chhakuli
 
