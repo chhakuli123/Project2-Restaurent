@@ -3,7 +3,7 @@
 ### By Chhakuli
 
 
-## 🔗Live Link -: [Restaurent](https://project1-fashion-trends.netlify.app/)
+## 🔗Live Link -: [Restaurent](https://projec2-restaurent.netlify.app/)
  
 
 ---
